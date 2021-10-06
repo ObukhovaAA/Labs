@@ -1,0 +1,5 @@
+time: Wed Sep 22 13:27:51 +04 2021
+user: root
+os: Linux
+num folders in /home/raf/nastya : 1
+num files in /home/raf/nastya : 4
